@@ -8,8 +8,8 @@ POST http://localhost:5258/games
 Content-Type: application/json
 
 {
-    "name": "",
-    "genre": "Action",
+    "name": "Super Mario Bros.",
+    "genreId": 2,
     "price": 59.99,
     "releaseDate": "2024-06-01"
 }
